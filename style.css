@@ -72,3 +72,21 @@
   .hide {
     display: none;
   }
+  #plyr-ai{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    text-align: center;
+  }
+  #plyr-plyr{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    text-align: center;
+  }
