@@ -1,1 +1,1 @@
-This is a Tic-Tac-Toe game made using HTML,CSS and JavaScript.
+This project involves developing a fully functional Tic Tac Toe game using HTML, CSS, and JavaScript. The goal is to create a web-based version of the classic two-player game where each player takes turns marking a 3x3 grid with their respective symbols (X or O). The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game and a person can also play with ai. 
